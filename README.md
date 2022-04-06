@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Aaryan, a full-time student studying at SVKMIOT👨‍💻 grind everyday 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Auto Parking in Two Wheelers  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Python and Android  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Python and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -56,11 +56,6 @@
 </td><td valign="top" width="33%">
 
 
-
-### DevOps  
-<div align="center">  
-  
-</div>
 
 </td></tr></table>  
 
