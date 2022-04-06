@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aaryan, a full-time student studying at SVKMIOT👨‍💻 grind everyday 🚀</div>  
+### <div align="left">I'm Aaryan, a full-time student studying at SVKMIOT👨‍💻 grind everyday 🚀</div>  
   
 
 - 🔭 I’m currently working on Auto Parking in Two Wheelers  
@@ -52,10 +52,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
